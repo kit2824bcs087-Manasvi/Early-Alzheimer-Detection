@@ -1,0 +1,33 @@
+ALZHEIMER MRI IMPROVED MODEL EVALUATION
+======================================================================
+
+Fold: 1
+Validation images: 42517
+
+Accuracy: 75.19%
+Weighted Precision: 75.99%
+Weighted Recall: 75.19%
+Weighted F1: 75.51%
+
+Macro Precision: 38.57%
+Macro Recall: 38.38%
+Macro F1: 38.31%
+
+PER-CLASS PERFORMANCE
+----------------------------------------------------------------------
+                    precision    recall  f1-score   support
+
+     Mild Dementia       0.29      0.23      0.25      2318
+ Moderate Dementia       0.01      0.00      0.00       244
+      Non Demented       0.88      0.86      0.87     33184
+Very mild Dementia       0.37      0.45      0.41      6771
+
+          accuracy                           0.75     42517
+         macro avg       0.39      0.38      0.38     42517
+      weighted avg       0.76      0.75      0.76     42517
+
+CONFUSION MATRIX
+[[  531    83   614  1090]
+ [  120     1    43    80]
+ [  820    50 28418  3896]
+ [  380    58  3315  3018]]

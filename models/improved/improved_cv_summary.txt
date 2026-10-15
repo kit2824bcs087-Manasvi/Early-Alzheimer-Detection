@@ -1,0 +1,14 @@
+IMPROVED MODEL 2-FOLD CV SUMMARY
+======================================================================
+
+Fold 1 Accuracy: 75.19%
+Fold 1 Weighted F1: 75.51%
+Fold 1 Macro F1: 38.31%
+
+Fold 2 Accuracy: 77.02%
+Fold 2 Weighted F1: 75.17%
+Fold 2 Macro F1: 37.02%
+
+Mean Accuracy: 76.10%
+Mean Weighted F1: 75.34%
+Mean Macro F1: 37.66%

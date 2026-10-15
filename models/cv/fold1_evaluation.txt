@@ -1,0 +1,27 @@
+FOLD 1 EVALUATION
+======================================================================
+Accuracy: 74.1421%
+Weighted Precision: 76.6419%
+Weighted Recall: 74.1421%
+Weighted F1: 75.2275%
+Macro Precision: 37.9267%
+Macro Recall: 41.1879%
+Macro F1: 39.0099%
+
+CLASSIFICATION REPORT
+                    precision    recall  f1-score   support
+
+     Mild Dementia       0.24      0.40      0.30      2318
+ Moderate Dementia       0.00      0.00      0.00       244
+      Non Demented       0.89      0.84      0.86     33184
+Very mild Dementia       0.39      0.40      0.40      6771
+
+          accuracy                           0.74     42517
+         macro avg       0.38      0.41      0.39     42517
+      weighted avg       0.77      0.74      0.75     42517
+
+CONFUSION MATRIX
+[[  936    70   497   815]
+ [  211     0    13    20]
+ [ 1918    28 27848  3390]
+ [  856    69  3107  2739]]

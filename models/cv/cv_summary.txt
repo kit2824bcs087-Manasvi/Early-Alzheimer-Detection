@@ -1,0 +1,16 @@
+2-FOLD CROSS-VALIDATION SUMMARY
+======================================================================
+
+Fold 1
+Accuracy: 74.1421%
+Weighted F1: 75.2275%
+Macro F1: 39.0099%
+
+Fold 2
+Accuracy: 73.1034%
+Weighted F1: 74.1543%
+Macro F1: 36.9039%
+
+Mean Accuracy: 73.6227%
+Mean Weighted F1: 74.6909%
+Mean Macro F1: 37.9569%
